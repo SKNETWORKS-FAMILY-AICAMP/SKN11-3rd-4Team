@@ -241,7 +241,7 @@ mistralai/Mistral-7B-Instruct-v0.1</td>
 ### 🫒 oliveyoung.csv </br> 
 - 원본 데이터  </br> 
 <img width="800" src="https://github.com/user-attachments/assets/03f7d5ea-19a9-4730-83bb-41142f4e9b41"> </br>
-</br> </br> 
+
 **1. product_name 이름 전처리**
   - 괄호 `()` 와 대괄호 `[]` 안의 내용 삭제  
   - 특정 패턴 (예: 숫자+종, 기초 2종, 택1 등) 제거  
